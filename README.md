@@ -5,4 +5,6 @@ Free Encrypt Folder
 
 http://soft.freewindowsapp.com/
 
+下载地址：https://github.com/FreeWindowsApp/FreeEncryptFolder/releases
+
 
