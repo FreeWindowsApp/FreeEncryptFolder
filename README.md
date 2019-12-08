@@ -8,8 +8,8 @@ Free Encrypt Folder
 
 官网地址(Official website)：http://soft.freewindowsapp.com/
 
-中文版截图：https://github.com/FreeWindowsApp/FreeEncryptFolder/blob/master/FreeEncryptFolder-Chinese-v2.0.png
+中文版截图：https://github.com/FreeWindowsApp/FreeEncryptFolder/blob/master/FreeEncryptFolder-Chinese-v2.0-screenshot.png
 
-英文版截图：https://github.com/FreeWindowsApp/FreeEncryptFolder/blob/master/FreeEncryptFolder-English-v2.0.png
+英文版截图：https://github.com/FreeWindowsApp/FreeEncryptFolder/blob/master/FreeEncryptFolder-English-v2.0-screenshot.png
 
 
