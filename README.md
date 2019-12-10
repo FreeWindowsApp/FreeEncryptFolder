@@ -16,6 +16,7 @@ Free Encrypt Folder
 
 英文版截图：https://github.com/FreeWindowsApp/FreeEncryptFolder/blob/master/FreeEncryptFolder-English-v2.0-screenshot.png
 
+
 特点(features)：
 
 1.支持windows xp/7/8/10等主流pc操作系统;
@@ -28,6 +29,6 @@ The software itself is very small, only a few hundred kilobytes, fast download s
 The encryption speed is fast, and will not cause any damage to the files in the folder, because the software will not process the files in the folder;
 
 4.加密安全性高,加密后除非用本软件解密,否则任何其他方式都不能访问此文件夹.
-The security of encryption is high. You can't access this folder in any other way unless you use this software to decrypt it after encryption.
+The security of encryption is high. You can't access this folder in any other way unless you use this software to decrypt it after encryption..
 
 
