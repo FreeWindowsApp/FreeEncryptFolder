@@ -20,3 +20,7 @@ features：
 4.The security of encryption is high. You can't access this folder in any other way unless you use this software to decrypt it after encryption. 
 
 
+
+中文版说明 https://github.com/FreeWindowsApp/FreeEncryptFolder/blob/master/%E4%B8%AD%E6%96%87%E7%89%88%E8%AF%B4%E6%98%8E.md
+
+
