@@ -1,9 +1,6 @@
 # FreeEncryptFolder
 Free Encrypt Folder
 
-![FreeEncryptFolder-English-v2 0-screenshot](https://user-images.githubusercontent.com/58068964/70383179-491a1b00-19a4-11ea-89c1-4413f36817c5.png)
-
-
 Official website：http://soft.freewindowsapp.com/download/free-encrypt-folder.html
 
 Download address：https://github.com/FreeWindowsApp/FreeEncryptFolder/releases
@@ -20,6 +17,10 @@ features：
 4.The security of encryption is high. You can't access this folder in any other way unless you use this software to decrypt it after encryption. 
 
 
+![FreeEncryptFolder-English-v2 0-screenshot](https://user-images.githubusercontent.com/58068964/70383179-491a1b00-19a4-11ea-89c1-4413f36817c5.png)
+
+
+Official website： http://soft.freewindowsapp.com/
 
 中文版说明
 https://github.com/FreeWindowsApp/FreeEncryptFolder/blob/master/%E4%B8%AD%E6%96%87%E7%89%88%E8%AF%B4%E6%98%8E.md
